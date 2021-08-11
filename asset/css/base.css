@@ -1,0 +1,22 @@
+:root{
+    --white-color:#fff;
+    --black-color:#000;
+    --text-color:#e5e5e5;
+    --orange-color:#ff8040;
+    --yellow-color:#febb00;
+}
+
+*{
+    box-sizing: inherit;
+}
+
+.clear{
+    clear: both;
+}
+
+html,body{
+    font-family: 'Be Vietnam', sans-serif;
+    font-size: 15px;
+    box-sizing: border-box;
+    line-height: 1.15;
+}

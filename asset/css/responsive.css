@@ -1,0 +1,279 @@
+@media (min-width:1200px){
+    .rate-icon {
+        font-size: 11px;
+    }
+}
+
+@media (min-width:768px) and (max-width:1199px){
+    .content__film-img{
+        height: 187.46px;
+    }
+}
+
+@media (min-width:576px) and (max-width:991px){
+    .film-right__item {
+        display: block;
+        width: 100%;
+    }
+}
+
+@media (max-width:767px){
+    .content__film--item{
+        width: 50%;
+    }
+
+    .footer__footer{
+        display: block;
+    }
+
+    .footer__footer-sologan {
+        width: 100%;
+        text-align: center;
+        margin-top: -18px;
+    }
+
+    .footer__footer-link {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px){
+    .nav__right {
+        display: block;
+    }
+    
+    .nav__account {
+        height: 62%;
+    }
+    
+    .content__container {
+        max-width: 960px;
+    } 
+    
+    /* scroll */
+    div .content__film-right {
+        width: 290px;
+        height: 579.59px;
+        overflow: auto;
+    }
+    
+    .content__container-left--adult{
+        margin-top: -96px;
+    }
+}
+
+@media (max-width:991px){
+    .header{
+        height: 48.95px;
+    }
+
+    .header__nav {
+        height: 48.95px;
+    }
+
+    .nav__logo-img {
+        width: 100%;
+        margin-top: 5px;
+    }
+
+    .nav__logo{
+        width: 95px;
+    }
+
+    .nav__nav{
+        display: none;
+    }
+    
+    .nav__account{
+        display: none;
+    }
+    
+    .content__rate-number{
+        font-size: 13px;
+    }
+
+    .footer{
+        height: 673.8px;
+    }
+
+    .footer__item{
+        width: 50%; 
+    }
+}
+@media (min-width:768px) and (max-width:991px){    
+    .content__container {
+        max-width: 720px;
+    } 
+
+    div .content__film-right {
+        width: 210px;
+        height: 579.59px;
+        overflow: auto;
+    }
+
+    .content__film--item{
+        width: 33.333333%;
+    }
+
+    .film-right__img {
+        width: 100%;
+        max-width: 100%;
+        height: 230.28px;
+    }
+
+    .film-right__img-img{
+        width: 159.69px;
+    }
+
+    .film-right--introduce{
+        width: 100%;
+        max-width:100% ;
+        margin-top: -8px;
+        margin-bottom: 22px;
+        max-width: 159.69px;
+    }
+
+    .content__container-left--adult{
+        margin-top: -34px;
+    }
+
+    .content__container-right--hot{
+        margin-top: -200px;
+    }
+
+    .content__fullpage--item{
+        width: 25%;
+    }
+
+    .footer__container{
+        width: 720px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px){
+    .content__container {
+        max-width: 540px;
+    } 
+
+    div .content__film-right {
+        width: 150px;
+        height: 579.59px;
+        overflow: auto;
+    }
+
+    .content__film-img{
+        height: 274px;
+    }
+
+    .film-right__img {
+        height: 230.28px;
+    }
+
+    .film-right__img {
+        width: 100%;
+        max-width: 100%;
+        height: 162px;
+    }
+
+    .film-right--introduce{
+        width: 100%;
+        max-width:100% ;
+        margin-top: -8px;
+        margin-bottom: 22px;
+        max-width: 112px;
+    }
+
+    .film-right--rate{
+        display: block;
+    }
+
+    .content__fullpage--item{
+        width: 33.333333%;
+    }
+
+    .footer__container{
+        width: 540px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width:575px) {
+    .content__container {
+        width: 100%;
+        max-width: 360px;
+    } 
+
+    .content__adult-plus,
+    .content__movietheater{
+        display: block;
+    }
+
+    .content__container-right{
+        width: 100%;
+        max-width: 527.6px;
+    }
+
+    div .content__film-right {
+        max-width: 527.6px;
+        width: 100%;
+        height: 579.59px;
+        overflow: auto;
+    }
+
+    .content-right__header-img {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .content__fullpage--item{
+        width: 50%;
+    }
+
+    .content__film-img{
+        min-height: 158.63px;
+    }
+
+    .content__film--rate{
+        display: block;
+    }
+
+    .footer__container{
+        width: 345px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+}
+
+@media (max-width:375px){
+    .footer{
+        height: 713.8px;
+    }
+
+    .footer__container{
+        width: 290px;
+    }
+}
+
+@media (max-width:320px){
+    .nav__search-icon {
+        margin-left: 150px;
+    }
+}
+
+@media (max-width:280px){
+    .footer{
+        height: 809.8px;
+    }
+    .footer__container{
+        width: 250px;
+    }
+
+    .nav__search-icon {
+        margin-left: 122px;
+    }
+}
